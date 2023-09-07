@@ -1,3 +1,3 @@
 # animation
 this is my first repository.
-Author-Esha
+Author-Esha Rao
